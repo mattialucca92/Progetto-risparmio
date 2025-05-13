@@ -27,6 +27,7 @@
 
 ## 📷 Anteprima
 
+## ![screenshot](./assets/img/Screenshot%202025-05-13%20171031.png)
 
 ## 🚀 Come usarlo
 
