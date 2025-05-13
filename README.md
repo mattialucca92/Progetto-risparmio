@@ -27,7 +27,6 @@
 
 ## 📷 Anteprima
 
-## ![screenshot](assets/img/screenshot.png)
 
 ## 🚀 Come usarlo
 
