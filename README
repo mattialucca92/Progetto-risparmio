@@ -1,0 +1,37 @@
+# 💰 Progetto Risparmio
+
+**Progetto Risparmio** è una semplice applicazione web realizzata con **HTML**, **CSS** e **JavaScript**, che permette di tenere traccia delle entrate e delle spese, calcolare il bilancio e visualizzare l'elenco delle transazioni in modo intuitivo.
+
+👉 [Visualizza il progetto online](https://mattialucca92.github.io/Progetto-risparmio/)
+
+---
+
+## 🧠 Funzionalità principali
+
+- ✅ Aggiunta di **entrate** e **spese**
+- 📊 Calcolo automatico del **bilancio totale**
+- 📄 Visualizzazione delle **transazioni inserite**
+- 🗑️ Rimozione di singole transazioni
+- 💡 Interfaccia semplice, responsive e intuitiva
+
+---
+
+## 🔧 Tecnologie utilizzate
+
+- **HTML5** – struttura del documento
+- **CSS3** – stile e layout responsive
+- **JavaScript** – logica di gestione delle transazioni
+
+---
+
+## 📷 Anteprima
+
+![screenshot]("C:\Users\marti\OneDrive\Immagini\Catture di schermata\Screenshot 2025-05-13 164828.png")
+
+---
+
+## 🚀 Come usarlo
+
+1. Clona la repository:
+   ```bash
+   git clone https://github.com/mattialucca92/Progetto-risparmio.git
