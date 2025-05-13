@@ -13,6 +13,7 @@
 - 📄 Visualizzazione delle **transazioni inserite**
 - 🗑️ Rimozione di singole transazioni
 - 💡 Interfaccia semplice, responsive e intuitiva
+-    Salvataggio dei dati in LocalStorage o Database
 
 ---
 
@@ -26,7 +27,7 @@
 
 ## 📷 Anteprima
 
-![screenshot]("C:\Users\marti\OneDrive\Immagini\Catture di schermata\Screenshot 2025-05-13 164828.png")
+![screenshot](./assets/img/Screenshot.png)
 
 ---
 
@@ -35,3 +36,9 @@
 1. Clona la repository:
    ```bash
    git clone https://github.com/mattialucca92/Progetto-risparmio.git
+
+🙋‍♂️ Autore
+
+Mattia Lucca
+💼 Sviluppatore Front-end in formazione
+📧 Contattami su LinkedIn (https://www.linkedin.com/in/luccamattia/)
