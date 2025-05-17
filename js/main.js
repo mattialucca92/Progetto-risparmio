@@ -12,6 +12,8 @@ const parEntrate = document.getElementById("par-entrate");
 const parSpese = document.getElementById("par-spese");
 const parBilancio = document.getElementById("par-bilancio");
 
+
+
 const transazioni = [];
 let totaleEntrate = 0;
 let totaleSpese = 0;
@@ -33,8 +35,11 @@ function aggiungiTransazioneAlDOM(transazione) {
   btnElimina.innerHTML = `<i class="fa-solid fa-trash"></i>`;
   btnElimina.classList.add("btn-delete");
 
+  const dataFormattata = new Date(transazione.data).toLocaleDateString("it-IT");
+
+
   riga.innerHTML = `
-    <td>${transazione.data}</td>
+    <td>${dataFormattata}</td>
     <td>${transazione.descrizione}</td>
     <td>${transazione.tipo}</td>
     <td>${transazione.importo}</td>
